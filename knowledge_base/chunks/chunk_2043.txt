@@ -1,0 +1,20 @@
+wise	KVK	Contributors	
+Zone VIII, Pune :  SK Roy, SAQA Syed
+Zone IX, Jabalpur :  SRK Singh, Harish MN
+Zone XI, Bengaluru :  Venkatasubramanian V, Thimmappa K
+Andaman & Nicobar :  Santosh Kumar, Y Ramakrishna, V Damodaran
+Arunachal Pradesh :  Manoj Kumar, Utpal Barua, UK Bhattacharyya, AK Singh, MS Bora, BK Dutta
+Zone VI, Guwahati :  Kadirvel Govindasamy, MT Devi
+Jammu & Kashmir :  Pawan K Sharma, Ishtiyaq A Khan, Punit Choudhary, Neerja Sharma, 
+Karnataka :  Gangadhara K, RG Teggelli
+ATARI-wise	Contributors	
+Zone I, Ludhiana : Parvender Sheoran, Rajesh K Rana 
+Zone III, Kanpur : SK Dubey, AK Singh
+Zone VII, Barapani :  AK Mohanty, Amrutha T 
+Zone V, Kolkata : Pradip Dey, KS Das
+Zone X, Hyderabad :  Shaik N Meera, B Malathi
+Zone IV, Patna : Anjani Kumar, Pragya Bhadauria
+Andhra Pradesh :  JV Prasad, G Sivanarayana, B Mukunda Rao
+Assam  :  FUA Ahmed, Hemchandra Saikia, Pulakabha Choudhary, BJ Gharphalia,
+   Chinmoy Deori, Priyanka Amonge 
+Bihar  :  M Monobrullah, DV Singh, RK Sohane, RN 

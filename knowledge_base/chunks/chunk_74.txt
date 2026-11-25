@@ -1,0 +1,19 @@
+e 103. 
+Flood-Prone	Areas:	Amara, Indra, Bhima, MTU 1232, 1318. 
+Late	Nursery	Planting:	Parthiva, Bapatla Masoori, Teja, Bhavapuri Sannalu, Maruteru 
+Masoori.
+Late	 Planting:	 MTU 1293, NLR 3238, Nellore Masoori, Cotton Dora Sannalu, 
+Chandara.
+BPH-Prone	 Areas:	 Maruteru Samba & Maruteru Masoori, MTU 1271, Bapatla 
+Masoori, BPT 2846, Parthiva. 
+Late	Nursery	Transplanting: Swarna, Indra, Amara, MTU 1318, Maruteru Masoori, 
+Srikakulam Sannalu. 
+Late	Nursery	Planting:	Swarna, MTU 1318, Maruteru Masoori, Srikakulam Sannalu. 
+BPH-Prone	Areas:	Maruteru Samba & Masoori, MTU Rice -1271, Bapatla Masoori, 
+BPT Rice- 2846, Parthiva, Nandyala Sona. 
+Flood-Prone	 Areas:	 Srikakulam Sannalu, Indra, Bapatla Masoori, Bhima, Amara, 
+Ksheera, MTU 1318, 1232. 
+Saline	Soils:	Indra, Panduranga, MCM Rice 103. 
+Southern	Region: Nellore Sona, Nellore Masoori, Nellore Dhanyarashi, Nellore Siri, 
+Somasila, Bharani, Sweta, NLR 3238, Samba Masoori, Bapatla Masoori, Teja, 
+Bhavathi, Sasya, BPT Rice-2841, BPT Rice

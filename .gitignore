@@ -1,0 +1,19 @@
+
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# Secret API keys
+.env
+
+# Generated audio
+*.wav
+*.mp3
+
+# IDE files
+.vscode/
+
+# ChromaDB databases
+knowledge_base/chroma_db/
+knowledge_base/improved_chroma_db/
